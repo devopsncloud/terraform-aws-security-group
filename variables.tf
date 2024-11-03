@@ -18,7 +18,7 @@ variable "sg_tags" {
 variable "vpc_id" {
   
 }
-variable "sg_description" {
+variable "sg_desc" {
   #default = ""
   type = string
 }
